@@ -248,14 +248,6 @@ return [
 
 		'admin' => [
 
-			[
-				'slug'  => 'admin-sanatorium-codemirror',
-				'name'  => 'Codemirror',
-				'class' => 'fa fa-circle-o',
-				'uri'   => 'codemirror',
-				'regex' => '/:admin\/codemirror/i',
-			],
-
 		],
 
 		'main' => [
