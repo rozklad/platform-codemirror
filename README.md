@@ -8,7 +8,7 @@ No documentation available.
 
 ## Changelog
 
-Changelog not available.
+- 3.0.0 - 2016-08-27 - Compatible with Platform 5
 
 ## Support
 
